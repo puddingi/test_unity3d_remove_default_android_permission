@@ -1,0 +1,1 @@
+https://github.com/puddingi/test_unity3d_remove_default_android_permission
