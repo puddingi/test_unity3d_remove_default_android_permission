@@ -58,3 +58,7 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+
+remove_default_android_permission/Library/
+
+.DS_Store
